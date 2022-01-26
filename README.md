@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cameron-colaco (Also, Cam)!
-- 👀 I’m interested in developing software in the healthcare/tech space to make life easier for people!
-- 🌱 I’m currently learning software engineering and biology.
-- 💞️ I’m looking to collaborate on educational/career opportunities, and projects which benefit our mutual interests.
+- 👋 Hi, I’m @cameron-colaco!
+- 👀 I’m interested in developing software to make life easier for people around the world!
+- 🌱 I am always learning new technologies and finding opportunities to grow.
+- 💞️ I believe in building community and I'm always looking to collaborate on new projects/applications.
 - 📫 How to reach me (LinkedIn: https://www.linkedin.com/in/cameron-colaco-58326b61/)
 
 <!---
