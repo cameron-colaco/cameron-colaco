@@ -13,4 +13,6 @@
     <img alt="email" src="https://img.shields.io/badge/email%20-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:colacocameron@gmail.com" />
   </a>
 </p>
+<hr/>
+
 
