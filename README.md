@@ -3,7 +3,7 @@
 ## 📚 Full-Stack Software Engineer
 I have technical experience developing applications across the full-stack in an Agile environment. I am open to remote or on-site positions.
 
-## 📫 Contact Me:
+## 📫 Contact Me
 <p align="left">
   <a href="https://www.linkedin.com/in/cameroncolaco/">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cameroncolaco/" />
@@ -16,7 +16,7 @@ I have technical experience developing applications across the full-stack in an 
   </a>
 </p>
 
-## 💻 Technical Skills:
+## 💻 Technical Skills
 ### Front End:
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
