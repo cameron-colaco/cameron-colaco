@@ -1,1 +1,1 @@
-# :male-technologist:Cameron Colaco
+# Cameron Colaco
