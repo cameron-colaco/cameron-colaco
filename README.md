@@ -18,7 +18,7 @@ I have technical experience developing applications across the full-stack in an 
 
 ## 💻 Technical Skills
 ### Front End:
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)(https://www.javascript.com)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white&link=https://reactjs.org)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,7 @@ I have technical experience developing applications across the full-stack in an 
 
 ### Testing/Deployment:
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white)
-![RTL](https://img.shields.io/badge/react%20testing%20library%20-%23E33332.svg?&style=for-the-badge&logo=testing%20library&logoColor=white)
+![TestingLibrary](https://img.shields.io/badge/testing%20library%20-%23E33332.svg?&style=for-the-badge&logo=testing%20library&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazon%20web%20services%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![NewRelic](https://img.shields.io/badge/new%20relic%20-%23008C99.svg?&style=for-the-badge&logo=new%20relic&logoColor=white)
 
