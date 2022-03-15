@@ -43,11 +43,20 @@ I have technical experience developing applications across the full-stack in an 
 </div>
 ### Back End:
 <div align="left">
-![Node](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://nodejs.org/en/">
+  <img alt="Node JS Docs" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<a href="https://expressjs.com/">
+  <img alt="Express Docs" src="https://img.shields.io/badge/Express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+</a>
+<a href="https://www.mongodb.com/">
+  <img alt="Mongo DB Docs" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+      <a href="">
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+        <a href="">
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
+          <a href="">
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 </div>
 ### Testing/Deployment:
