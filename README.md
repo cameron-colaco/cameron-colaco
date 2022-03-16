@@ -19,7 +19,7 @@ I have technical experience developing applications across the full-stack in an 
 ## 💻 Technical Skills
 ### Front End:
 <div align="left">
-  <a href="https://www.javascript.com/">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   <a href="https://reactjs.org/">
