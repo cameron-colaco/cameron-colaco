@@ -81,6 +81,9 @@ I have technical experience developing applications across the full-stack in an 
   <a href="https://git-scm.com/">
     <img alt="Git Docs" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </a>
+   <a href="https://code.visualstudio.com/">
+      <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   </a>
   <a href="https://www.npmjs.com/">
     <img alt="NPM Docs" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
   </a>
