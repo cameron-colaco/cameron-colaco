@@ -6,7 +6,7 @@ I have technical experience developing applications across the full-stack in an 
 ## 📫 Contact Me  
 [<img align="left" alt="Cameron's LinkedIn" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/cameroncolaco)
 [<img align="left" alt="Cameron's GitHub" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/cameron-colaco)
-[<img align="left" alt="Cameron's Gmail" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20201210105308" />](mailto:colacocameron@gmail.com)
+[<img align="left" alt="Cameron's Gmail" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20201210105308" />](mailto:colacocameron@gmail.com)
 
 <br />
 <br />
