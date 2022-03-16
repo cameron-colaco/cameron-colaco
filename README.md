@@ -78,8 +78,8 @@ I have technical experience developing applications across the full-stack in an 
 
 #### Developer Tools:
 <div align="left">
-  <a href="https://github.com/">
-    <img alt="Git Hub Docs" src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://git-scm.com/">
+    <img alt="Git Docs" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://www.npmjs.com/">
     <img alt="NPM Docs" src="https://img.shields.io/badge/npm%20-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" />
