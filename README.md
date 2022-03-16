@@ -109,4 +109,4 @@ I have technical experience developing applications across the full-stack in an 
 </div>
 
 ## 📊 GitHub Stats
-<img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=cameron-colaco" />
+<img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_private=true&show_icons=true&theme=radical" />
