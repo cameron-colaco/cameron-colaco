@@ -7,7 +7,7 @@ I have technical experience developing applications across the full-stack in an 
 [<img align="left" alt="Cameron's LinkedIn" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/cameroncolaco)
 [<img align="left" alt="Cameron's GitHub" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />](https://github.com/cameron-colaco)
 [<img align="left" alt="Cameron's Gmail" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20201210105308" />](mailto:colacocameron@gmail.com)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="programmer" src="code.gif" width="500" height="auto" />
 
 <br />
 <br />
