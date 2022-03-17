@@ -27,8 +27,8 @@ I have technical experience developing applications across the full-stack in an 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   </a>
-  <a href="https://material.io/">
-    <img alt="Material Design" src="https://img.shields.io/badge/material%20design%20-%23757575.svg?&style=for-the-badge&logo=materialdesign&logoColor=white" />
+  <a href="https://mui.com/">
+    <img alt="Material Design" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
   </a>
   <a href="https://reactrouter.com/">
     <img alt="React Router" src="https://img.shields.io/badge/react%20router%20-%23CA4245.svg?&style=for-the-badge&logo=react%20router&logoColor=white" />
@@ -69,7 +69,7 @@ I have technical experience developing applications across the full-stack in an 
     <img alt="Testing Library Docs" src="https://img.shields.io/badge/testing%20library%20-%23E33332.svg?&style=for-the-badge&logo=testing%20library&logoColor=white" />
   </a>
   <a href="https://aws.amazon.com/">
-    <img alt="AWS Docs" src="https://img.shields.io/badge/amazon%20web%20services%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+    <img alt="AWS Docs" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://newrelic.com/">
     <img alt="New Relic Docs" src="https://img.shields.io/badge/new%20relic%20-%23008C99.svg?&style=for-the-badge&logo=new%20relic&logoColor=white" />
