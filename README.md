@@ -1,6 +1,6 @@
 ![logo](IMG-2443.JPG "oceanview panorama")
 # 🤝 Cameron Colaco
-## 📚 Full-Stack Software Engineer
+## 📚 Software Engineer
 I have technical experience developing applications across the full-stack in an Agile environment. I am open to remote or on-site positions.
 
 ## 📫 Contact Me  
@@ -106,6 +106,3 @@ I have technical experience developing applications across the full-stack in an 
     <img alt="PM2 Docs" src="https://img.shields.io/badge/pm2%20-%232B037A.svg?&style=for-the-badge&logo=pm2&logoColor=white" />
   </a>
 </div>
-
-## 📊 GitHub Stats
-<img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=cameron-colaco&show_private=true&show_icons=true&theme=merko" />
